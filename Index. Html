@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+
+<head>
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Hamzeh Derakhshan | Legal Consultant & Poet</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="manifest" href="manifest.json">
+
+</head>
+
+
+<body>
+
+<div class="card">
+
+
+<div class="logo">
+HD
+</div>
+
+
+<h1>
+HAMZEH DERAKHSHAN
+</h1>
+
+
+<h2>
+⚖️ Legal Consultant | حقوقدان
+<br>
+✍️ Poet | شاعر
+</h2>
+
+
+<p class="location">
+🇮🇷 Iran | 🇦🇪 UAE
+</p>
+
+
+
+<div class="buttons">
+
+
+<a href="tel:+989177812113">
+📞 تماس اول
+</a>
+
+
+<a href="tel:+989007812113">
+📞 تماس دوم
+</a>
+
+
+<a href="https://wa.me/989177812113">
+💬 واتس‌اپ
+</a>
+
+
+<a href="Hamzeh_Derakhshan.vcf">
+➕ ذخیره مخاطب
+</a>
+
+
+<a href="mailto:Hamzeh.Derakhshan@gmail.com">
+✉️ ایمیل
+</a>
+
+
+</div>
+
+
+
+<section>
+
+
+<h3>
+درباره من
+</h3>
+
+
+<p>
+
+حمزه درخشان، حقوقدان و شاعر؛ ارائه‌دهنده خدمات مشاوره حقوقی، بررسی و تنظیم قراردادها، تحلیل مسائل حقوقی و همراهی در امور حقوقی اشخاص و کسب‌وکارها در ایران و امارات.
+
+<br><br>
+
+در کنار فعالیت‌های حقوقی، با نگاه ادبی و انسانی خود به نوشتن و بیان اندیشه‌ها در قالب شعر می‌پردازد؛ ترکیبی از دانش حقوق، منطق و احساس.
+
+</p>
+
+
+</section>
+
+
+
+
+<section>
+
+
+<h3>
+خدمات
+</h3>
+
+
+<ul>
+
+<li>⚖️ مشاوره حقوقی</li>
+
+<li>📄 بررسی و تنظیم قراردادها</li>
+
+<li>🏢 امور حقوقی اشخاص و کسب‌وکارها</li>
+
+<li>🌍 امور حقوقی ایران و امارات</li>
+
+<li>✍️ شعر و فعالیت ادبی</li>
+
+</ul>
+
+
+</section>
+
+
+
+
+<section>
+
+
+<h3>
+Contact
+</h3>
+
+
+<p>
+
+📱 +98 917 781 2113
+
+<br>
+
+📱 +98 900 781 2113
+
+<br><br>
+
+✉️ Hamzeh.Derakhshan@gmail.com
+
+</p>
+
+
+</section>
+
+
+
+
+<footer>
+
+HD Smart Identity Card
+
+</footer>
+
+
+
+</div>
+
+
+<script src="script.js"></script>
+
+
+</body>
+
+
+</html>
