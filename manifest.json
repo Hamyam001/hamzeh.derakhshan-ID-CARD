@@ -1,0 +1,11 @@
+{
+  "name": "HD Smart Identity Card",
+  "short_name": "HD Card",
+  "description": "Hamzeh Derakhshan Digital Identity Card",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#101820",
+  "theme_color": "#c9a227",
+  "lang": "fa",
+  "dir": "rtl"
+}
