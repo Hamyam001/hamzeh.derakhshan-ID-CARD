@@ -1,0 +1,145 @@
+body {
+
+    margin: 0;
+    padding: 0;
+    font-family: Tahoma, Arial, sans-serif;
+    background: #101820;
+    color: white;
+
+}
+
+
+.card {
+
+    max-width: 430px;
+    margin: 30px auto;
+    padding: 25px;
+    background: #17212b;
+    border-radius: 25px;
+    text-align: center;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+
+}
+
+
+.logo {
+
+    width: 90px;
+    height: 90px;
+    margin: auto;
+
+    border-radius: 50%;
+
+    background: #c9a227;
+    color: #101820;
+
+    font-size: 45px;
+    font-weight: bold;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+
+h1 {
+
+    font-size: 25px;
+    margin-top: 20px;
+
+}
+
+
+
+h2 {
+
+    color: #d8b34b;
+    font-size: 18px;
+    line-height: 1.8;
+
+}
+
+
+
+.location {
+
+    font-size: 17px;
+    margin: 15px;
+
+}
+
+
+
+.buttons a {
+
+    display: block;
+
+    background: #c9a227;
+
+    color: #111;
+
+    padding: 14px;
+
+    margin: 12px 0;
+
+    border-radius: 15px;
+
+    text-decoration: none;
+
+    font-weight: bold;
+
+}
+
+
+
+.buttons a:hover {
+
+    opacity: 0.8;
+
+}
+
+
+
+section {
+
+    background: #202c38;
+
+    padding: 15px;
+
+    margin-top: 20px;
+
+    border-radius: 15px;
+
+    text-align: right;
+
+}
+
+
+
+h3 {
+
+    color: #d8b34b;
+
+}
+
+
+
+li {
+
+    margin: 12px;
+
+}
+
+
+
+footer {
+
+    margin-top: 25px;
+
+    color: #d8b34b;
+
+    font-size: 14px;
+
+}
